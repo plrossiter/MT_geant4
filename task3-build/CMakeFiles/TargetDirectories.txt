@@ -1,0 +1,7 @@
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/install/strip.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/edit_cache.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/task.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/rebuild_cache.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/list_install_components.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/install/local.dir
+/home/rossiter/MuonTomography_2020/MuonTomographySIMS_210201/task3-build/CMakeFiles/install.dir

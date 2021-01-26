@@ -1,0 +1,12 @@
+/run/initialize
+/CRY/input returnNeutrons 0
+/CRY/input returnProtons 0
+/CRY/input returnGammas 0
+/CRY/input returnElectrons 0
+/CRY/input returnMuons 1
+/CRY/input returnPions 0
+/CRY/input date 10-8-2020
+/CRY/input latitude 42.0
+/CRY/input altitude 0
+/CRY/input subboxLength 10
+/CRY/update

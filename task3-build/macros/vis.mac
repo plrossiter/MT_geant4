@@ -1,0 +1,11 @@
+#/vis/open OGL
+#/vis/scene/create
+#/vis/scene/add/volume
+#/vis/scene/add/axes
+#/vis/scene/add/trajectories smooth
+#/vis/scene/add/hits
+#/vis/sceneHandler/attach
+#/vis/scene/endOfEventAction accumulate
+#/vis/viewer/flush
+#/vis/viewer/set/viewpointThetaPhi 45 45
+/tracking/verbose 0
